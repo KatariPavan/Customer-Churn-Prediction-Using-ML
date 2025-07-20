@@ -1,0 +1,22 @@
+# Customer Churn Prediction using ML
+
+## Overview
+This project predicts whether a customer is likely to churn based on demographic and service usage data using machine learning models.
+
+## Dataset
+[Kaggle Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+## Technologies
+- Python, Pandas, Sklearn
+- Streamlit
+- Jupyter Notebook
+- Matplotlib, Seaborn
+
+## Models Used
+- Random Forest
+
+
+## Evaluation Metrics
+- Accuracy
+- ROC-AUC
+- Confusion Matrix
